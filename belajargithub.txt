@@ -2,3 +2,6 @@ belajar cara menyimpan perubahan
 ini saya hilman
 hallo hilman
 belajar cara upload dari laptop ke github
+belajar bikin branch baru
+belajar cara liat history commit
+belajar cara merge branch ke main
